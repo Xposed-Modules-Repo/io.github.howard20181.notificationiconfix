@@ -17,7 +17,7 @@ A module for AOSP, MIUI and HyperOS. Using an algorithm to convert white notific
 5. (For HyperOS) Determine if the icon is a weather icon, and replace it with a MAML icon with real-time temperature (there is a race on HyperOS, which shows that the temperature area is blank, which is a system bug)
 6. Calculate the average lumens excluding transparent pixels
 7. Quantify the most common color of edge pixels
-8. Calculate the Euclidean distance between the edge pixel and the color of the most common Lab color space obtained above to determine whether the icon has a border
+8. Calculate the Euclidean distance between the color of the edge pixel and the most common color obtained above in Lab color space to determine whether the icon has a border
 9. Determine whether the icon background is light or dark
 10. Use K-means quantizer to extract the primary color of the icon
 11. Invert the icon foreground according to the background and remove the border
