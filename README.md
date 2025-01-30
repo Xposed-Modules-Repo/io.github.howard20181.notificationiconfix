@@ -1,6 +1,6 @@
 # Notification Icon Fix
 
-[中文](/README.zh.md)
+[中文](README.zh.md)
 
 A module for AOSP, MIUI and HyperOS. Using an algorithm to convert white notification icons into recognizable icons.
 
@@ -14,8 +14,8 @@ A module for AOSP, MIUI and HyperOS. Using an algorithm to convert white notific
 
 |||
 |---|---|
-|![Single Notification](/docs/img/3.jpg)|![Multiple notifications with the same icon are automatically grouped](/docs/img/2.jpg)|
-|![Multiple notification icons are automatically grouped](/docs/img/1.jpg)|![Multiple notification icons are automatically grouped](/docs/img/4.jpg)|
+|![Single Notification](docs/img/3.jpg)|![Multiple notifications with the same icon are automatically grouped](docs/img/2.jpg)|
+|![Multiple notification icons are automatically grouped](docs/img/1.jpg)|![Multiple notification icons are automatically grouped](docs/img/4.jpg)|
 
 ## Algorithm Details
 

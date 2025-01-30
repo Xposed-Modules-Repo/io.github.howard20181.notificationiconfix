@@ -1,6 +1,6 @@
 # 通知图标修复
 
-[English](/README.md)
+[English](README.md)
 
 一个模块用于原生、MIUI 和 HyperOS，使用算法转换通知白块图标为可辨认的图标。
 
@@ -14,8 +14,8 @@
 
 |||
 |---|---|
-|![Single Notification](/docs/img/3.jpg)|![Multiple notifications with the same icon are automatically grouped](/docs/img/2.jpg)|
-|![Multiple notification icons are automatically grouped](/docs/img/1.jpg)|![Multiple notification icons are automatically grouped](/docs/img/4.jpg)|
+|![Single Notification](docs/img/3.jpg)|![Multiple notifications with the same icon are automatically grouped](docs/img/2.jpg)|
+|![Multiple notification icons are automatically grouped](docs/img/1.jpg)|![Multiple notification icons are automatically grouped](docs/img/4.jpg)|
 
 ## 算法详解
 
