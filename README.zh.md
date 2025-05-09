@@ -8,7 +8,7 @@
 
 - Android 8.1 ~ AOSP 主线
 - HyperOS
-- MIUI 12.5
+- MIUI 10 及以上
 
 ## 效果
 
